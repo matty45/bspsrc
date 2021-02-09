@@ -1,4 +1,4 @@
-BSPSource
+BSPSource (Fork with some fixes applied from main repo pull requests)
 =========
 
 BSPSource is a map decompiler for [Source engine](http://developer.valvesoftware.com/wiki/Source) maps, written in Java.
